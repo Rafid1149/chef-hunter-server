@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Gordon Ramsay",
+    "name": "Sergio Ramsay",
     "picture_chef": "https://i.ibb.co/FBnvYVT/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
     "years_of_experience": 9,
     "num_recipes": 150,
@@ -88,7 +88,7 @@
   },
   {
     "id": 2,
-    "name": "Jamie Oliver",
+    "name": "Jami Oliver",
     "picture_chef": "https://i.ibb.co/dbqjPLD/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
     "years_of_experience": 25,
     "num_recipes": 100,
